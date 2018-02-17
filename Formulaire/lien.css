@@ -1,0 +1,28 @@
+body{
+	/*background-image: url("powerpoint-templates-sA7OQKO87.jpg");background-repeat: no-repeat;*/
+	background-image: url("css-background-image-HD7-1.jpg");
+	/*height: 100%;
+	width: 100%;*/
+}
+fieldset{
+	width: 300px;
+	height: 400px;
+	position: center;
+	display: block;
+    margin-left: 100px;
+}
+.forme{
+    opacity: 0.6;
+	display: block;
+	border: 2px solid;
+	background-color: #f71bad;
+	text-align: center;
+	margin-right: 400px;
+	margin-left: 400px;
+}
+.bouton{
+   
+}
+.text2{
+	margin-right: 2px;
+}
